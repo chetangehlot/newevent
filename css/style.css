@@ -222,7 +222,7 @@ footer {
 -----------------------------------------*/
 .custom-navbar {
     margin-bottom: 0;
-    background-color: #101010;
+    background-color: #ffffff;
 }
 
 .custom-navbar .navbar-brand {
@@ -263,7 +263,7 @@ footer {
 }
 
 .custom-navbar .navbar-toggle {
-    background-color: transparent;
+    background-color: #101010;
 }
 
 .custom-navbar .navbar-toggle .icon-bar {
@@ -287,6 +287,10 @@ footer {
         border-color: transparent;
     }
 
+}
+
+.navbar-header img {
+    padding: 5px;
 }
 
 
